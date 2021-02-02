@@ -40,5 +40,5 @@ Epoch #169
  
  RX VEGA Vega       RAM: 8GB CU: 56 WS: 256 1150Hz ~41MH/s *OC
  
- FPGA    Stratix V  RAM: 8GB CU:  2 WS: 256  933Hz >50GH/s *DEBUG MODE
+ FPGA    Stratix V  RAM: 8GB CU:  2 WS: 256  933Hz >50MH/s *DEBUG MODE
   
